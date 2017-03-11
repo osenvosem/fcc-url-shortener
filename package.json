@@ -1,0 +1,19 @@
+{
+  "name": "fcc-url-shortener",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/osenvosem/fcc-url-shortener",
+  "author": "Sergey Samsonov <osenvosem@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon --inspect index.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongodb": "^2.2.24"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
