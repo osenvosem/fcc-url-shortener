@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/osenvosem/fcc-url-shortener",
-  "author": "Sergey Samsonov <osenvosem@gmail.com>",
+  "author":
+    "Sergei Samsonov <osenvosem@gmail.com> (https://github.com/osenvosem)",
   "license": "MIT",
   "scripts": {
     "start": "node index.js",
